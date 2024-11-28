@@ -70,14 +70,12 @@ main {
 .acceso-pedidos {
   list-style: none;
   display: grid;
-  
 }
 
 .acceso-pedidos img {
   width: 30%;
   justify-content: center;
 }
-
 
 .visitanos {
   background-repeat: no-repeat;
@@ -128,7 +126,6 @@ a:visited {
 }
 
 /* Samsung Galaxy Tab 10	vp: 800 x 1280 */
-
 @media screen and (max-width: 800px) {
   .welcome {
     padding: 30px;
@@ -173,7 +170,6 @@ a:visited {
 }
 
 /* Samsung Galaxy S20 vp:360 x 800 */
-
 @media screen and (max-width: 380px) {
   main {
     padding-top: 50px;
