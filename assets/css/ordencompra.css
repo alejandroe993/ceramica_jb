@@ -1,0 +1,20 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0px;
+  } 
+  
+  .main {
+    color: white;
+  } 
+
+  table, th, td {
+    border: 1px solid black;
+    text-align: center;
+    border:1px solid #000;text-align:center
+  }
+  input {
+    width: 100%;
+    box-sizing: border-box;
+    border:1px solid #000;text-align:center
+  }
